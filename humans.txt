@@ -7,7 +7,7 @@ Thanks to all students!# humanstxt.org/
 
 # THANKS
 
-    <name>
+    <name> Some text here because I don't know how to thank you
 
 # TECHNOLOGY COLOPHON
 
